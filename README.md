@@ -13,3 +13,5 @@ Expected release of the first betas and testing versions is expected ca. October
 
 Similar projects for other linux distros will follow.
 The project will be passed on to the next generation of SHS students over the time between May, 2017 and May, 2020.
+
+This line is added as a test to see if my shit worked

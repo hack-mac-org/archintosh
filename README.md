@@ -7,7 +7,7 @@ It is installed on a partition which is hidden to OSX and is only bootable by ho
 
 A simple, but complete installation guide, and eventually cli installer, and maybe even a gui installer, will be added soon.
 
-Also not that this project hasn't been uploaded or even necessarily started yet, and most likely won't be until August, 2015.
+Also note that this project hasn't been uploaded or even necessarily started yet, and most likely won't be until August, 2015.
 
 Expected release of the first betas and testing versions is expected ca. October, 2015
 
